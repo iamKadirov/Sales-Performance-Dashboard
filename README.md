@@ -54,14 +54,14 @@ City-level bar chart with pagination logic. Choose to display Top 5, Top 10, etc
 
 ## 🖼️ Optional: Dashboard Preview
 
-> https://app.fabric.microsoft.com/reportEmbed?reportId=5fa8f3d5-aae9-4b84-8edc-3d95d473df61&autoAuth=true&ctid=3de8742e-c05f-4a18-a682-e23b929f1359
+> <a.href="https://app.fabric.microsoft.com/reportEmbed?reportId=5fa8f3d5-aae9-4b84-8edc-3d95d473df61&autoAuth=true&ctid=3de8742e-c05f-4a18-a682-e23b929f1359">Click here</a>
 
 ---
 
 ## 📬 Contact
 
 For job opportunity and collaboration, feedback:  
-💼 www.linkedin.com/in/iamkadirov  
+💼 Linkedin: www.linkedin.com/in/iamkadirov  
 📧 Email: kadirovabduvosit102@gmail.com
 
 ---
