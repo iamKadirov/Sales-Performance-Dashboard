@@ -75,3 +75,9 @@ For job opportunity and collaboration, feedback:
 📧 Email: kadirovabduvosit102@gmail.com
 
 ---
+
+
+## Dashboard
+
+<img width="1547" height="850" alt="Screenshot 2025-07-28 003249" src="https://github.com/user-attachments/assets/a04120c1-8951-4f6b-9eb7-8c377746a16d" />
+
