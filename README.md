@@ -54,8 +54,10 @@ City-level bar chart with pagination logic. Choose to display Top 5, Top 10, etc
 
 ## 🖼️ Optional: Dashboard Preview And Presentation
 
-#- <a href="https://app.fabric.microsoft.com/reportEmbed?reportId=5fa8f3d5-aae9-4b84-8edc-3d95d473df61&autoAuth=true&ctid=3de8742e-c05f-4a18-a682-e23b929f1359">Click here</a>
-#- <a herf="https://youtu.be/C19L8EplaK8?si=Iz5Mjemdb4TbYpgm">Presentation of the Dashboard</a>
+- <a href="https://app.fabric.microsoft.com/reportEmbed?reportId=5fa8f3d5-aae9-4b84-8edc-3d95d473df61&autoAuth=true&ctid=3de8742e-c05f-4a18-a682-e23b929f1359">Click here</a>
+
+- <a herf="https://youtu.be/C19L8EplaK8?si=Iz5Mjemdb4TbYpgm">Presentation of the Dashboard</a>
+
 ---
 
 ## 📬 Contact
