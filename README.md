@@ -54,17 +54,17 @@ City-level bar chart with pagination logic. Choose to display Top 5, Top 10, etc
 
 ## 🖼️ Optional: Dashboard Preview And Presentation
 
-🔗 [Live Dashboard on Power BI Service](https://app.fabric.microsoft.com/reportEmbed?reportId=5fa8f3d5-aae9-4b84-8edc-3d95d473df61&autoAuth=true&ctid=3de8742e-c05f-4a18-a682-e23b929f1359)  
-🎥 [YouTube Presentation](https://youtu.be/C19L8EplaK8?si=Iz5Mjemdb4TbYpgm)
+- [Live Dashboard on Power BI Service](https://app.fabric.microsoft.com/reportEmbed?reportId=5fa8f3d5-aae9-4b84-8edc-3d95d473df61&autoAuth=true&ctid=3de8742e-c05f-4a18-a682-e23b929f1359)  
+- [YouTube Presentation](https://youtu.be/C19L8EplaK8?si=Iz5Mjemdb4TbYpgm)
 
 ---
 
 ## 📬 Contact
 
 For job opportunity and collaboration, feedback:  
-- 🔗<a href="https://www.linkedin.com/in/iamkadirov">Linkedin</a>
-- 💼<a href="https://iamkadirov.vercel.app/">Portfolio</a>
-- 🎥<a href="https://youtube.com/@iamkadirov102?si=POM6x0BddWCAsw8I">Youtube</a>
-- 📧 Email: kadirovabduvosit102@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/iamkadirov)  
+💼 [Portfolio Website](https://iamkadirov.vercel.app/)  
+🎥 [YouTube Channel](https://youtube.com/@iamkadirov102?si=POM6x0BddWCAsw8I)  
+📧 Email: kadirovabduvosit102@gmail.com
 
 ---
