@@ -12,7 +12,7 @@ This dashboard helps decision-makers monitor performance across products, region
 
 ## Dataset used
 
--[Dataset](https://github.com/iamKadirov/Sales-Performance-Dashboard/blob/main/Sample%20-%20Superstore.csv)
+- [Dataset](https://github.com/iamKadirov/Sales-Performance-Dashboard/blob/main/Sample%20-%20Superstore.csv)
 
 ---
 
@@ -60,7 +60,7 @@ City-level bar chart with pagination logic. Choose to display Top 5, Top 10, etc
 
 ## 🖼️ Optional: Dashboard Preview And Presentation
 
--[Short Video about The Dashboard]()
+- [Short Video about The Dashboard](https://github.com/iamKadirov/Sales-Performance-Dashboard/blob/main/Final.mp4)
 - [Live Dashboard on Power BI Service](https://app.fabric.microsoft.com/reportEmbed?reportId=5fa8f3d5-aae9-4b84-8edc-3d95d473df61&autoAuth=true&ctid=3de8742e-c05f-4a18-a682-e23b929f1359)  
 - [YouTube Presentation](https://youtu.be/C19L8EplaK8?si=Iz5Mjemdb4TbYpgm)
 
